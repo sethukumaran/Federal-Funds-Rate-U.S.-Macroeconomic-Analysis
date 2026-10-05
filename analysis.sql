@@ -1,5 +1,4 @@
 -- Federal Funds & U.S. Macroeconomic Indicators
--- SQLite-compatible SQL. Import cleaned_fed_macro_data.csv into table: fed_macro
 
 -- 1. Dataset coverage and row count
 SELECT COUNT(*) AS row_count,
