@@ -1,5 +1,4 @@
 # Federal Funds & U.S. Macroeconomic Indicators Analysis
-# Senior Data Analyst project script
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
